@@ -1,0 +1,13 @@
+instance,n,reference,ref_type,ILP cost,ILP status,ILP gap %,SA best,SA mean,SA std,SA gap %
+AMZ-c6a02b-n10,10,7177.0,best found in study,7177.0,ProvenOptimal,0.0,7177.0,7177.0,0.0,0.0
+AMZ-c6a02b-n15,15,7545.0,best found in study,7545.0,ProvenOptimal,0.0,7545.0,7545.0,0.0,0.0
+P-n16-k8,15,450.0,published optimum,449.9999999999999,ProvenOptimal,0.0,450.0,450.0,0.0,0.0
+AMZ-c6a02b-n20,20,10733.0,best found in study,10733.0,ProvenOptimal,0.01,10733.0,10739.8,16.3,0.06
+E-n22-k4,21,375.0,published optimum,374.99999999999994,TimeLimit,5.6,375.0,377.1,3.38,0.56
+AMZ-c6a02b-n30,30,14290.0,best found in study,14289.999999999996,TimeLimit,0.94,14293.0,14380.5,80.06,0.63
+A-n32-k5,31,784.0,published optimum,842.0,TimeLimit,27.2,784.0,799.9,20.3,2.03
+A-n33-k5,32,661.0,published optimum,725.0,TimeLimit,29.93,661.0,664.0,5.1,0.45
+AMZ-c6a02b-n50,50,22190.0,best found in study,,,,22190.0,22722.6,257.63,2.4
+A-n60-k9,59,1354.0,published optimum,,,,1377.0,1401.4,27.3,3.5
+A-n80-k10,79,1763.0,published optimum,,,,1816.0,1852.7,22.19,5.09
+AMZ-c6a02b-n80,80,32639.0,best found in study,,,,32639.0,33324.8,459.04,2.1
