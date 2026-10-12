@@ -1,0 +1,5 @@
+band,ILP attempted,ILP proven optimal,ILP mean gap %,SA mean gap %,SA feasible %,SA runtime s
+n <= 15,3.0,3.0,0.0,0.0,100.0,0.1
+16-30,3.0,1.0,2.4,0.42,100.0,0.2
+31-50,2.0,0.0,28.7,1.63,100.0,0.5
+> 50,0.0,0.0,,3.56,100.0,1.9
